@@ -73,4 +73,4 @@ class Rectangle:
         return (rect)
 
     def __del__(self):
-        """Print a message for every deletion""" 
+	"""Print a message for every deletion"""
